@@ -1,0 +1,1 @@
+# Magi-Coin-Wallet-Extension
